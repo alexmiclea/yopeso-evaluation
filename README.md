@@ -7,7 +7,6 @@ The weather data should be taken from this api: http://openweathermap.org/foreca
 
 After you retrieve the data, save it locally (take care that if you perform many requests fast, then your api key will get “banned”).
 
-You should display the data from the api on the screen like this: //link to photo
-You can take the image to be displayed for each weather row using this format: http://openweathermap.org/img/w/ICON_KEY.png. For instance, for the cloud icon use “03d”: http://openweathermap.org/img/w/03d.png
+You should display the data from the api on the screen like this: <img src="https://github.com/alexmiclea/yopeso-evaluation/blob/master/row.png" alt="Forecast Row"/> You can take the image to be displayed for each weather row using this format: http://openweathermap.org/img/w/ICON_KEY.png. For instance, for the cloud icon use “03d”: http://openweathermap.org/img/w/03d.png
 
 Write the code in such a manner that it can be easily tested!
